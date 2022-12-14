@@ -1,0 +1,28 @@
+body{
+
+}
+html{
+    background-color: gray;
+} 
+
+.container{
+    margin:0px auto;
+}
+.image-container{
+    margin: 0px auto;
+    width: 1000px;
+
+}
+.image-container img {
+    width: 100% ;  
+}
+.container2{
+    background-color:darkred;
+    width: 1000px;
+    margin: 50px auto;
+}
+.container3{
+    background-color:darkred;
+    width: 1000px;
+    margin: 50px auto;
+}
